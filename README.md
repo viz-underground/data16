@@ -16,10 +16,10 @@ On 10-November all submitted entries will be listed on this site with a correspo
 
 ## Key Dates & Times
 
-1) **09-November @ 12AM - ** Data made public
+1) __09-November @ 12AM -__ Data made public
 
-2) **09-November @ 11:59PM - ** Deadline to submit
+2) __09-November @ 11:59PM -__ Deadline to submit
 
-3) **10-November @ 8AM - ** Voting opens
+3) __10-November @ 8AM -__ Voting opens
 
-4) **10-November @ 8PM - ** Voting close and a winner is crowned on this site!
+4) __10-November @ 8PM -__ Voting close and a winner is crowned on this site!
