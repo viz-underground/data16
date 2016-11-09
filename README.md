@@ -1,4 +1,5 @@
 # \#vizunderground competition at #data16
+#### [Data is here.](https://drive.google.com/file/d/0B2xUJnyUXkv4QTRMZHZYOS1JR0E/view)
 
 \#vizunderground is a friendly data visualization competition for Tableau Public users. The goal is simple: increase collaboration through competition using Tableau Public. Everyone is eligible including those not attending \#data16 in person.
 
@@ -16,7 +17,7 @@ __4)__ Get colleagues to vote from 8AM to 8PM on Friday 11-November.
 On 11-November all submitted entries will be listed on this site with a corresponding hashtag. Much like the IronViz feeder competitions, the hashtag with the most tweets (by unique users) will determine the underground champion. The winner will get bragging rights to the first \#vizunderground competition.
 
 ## Data
-Data are "basic" description of flights in the United States for January 2016 through August 2016. See the data dictionary for a breakdown of the data included in the file. The file has 37M rows and 65 columns.
+Data are "basic" description of flights in the United States for January 2016 through August 2016. See the data dictionary for a breakdown of the data included in the file. The file has 3.7M rows and 65 columns. [This large dataset cannot fit on GitHub and is available on Google Drive located here.](https://drive.google.com/file/d/0B2xUJnyUXkv4QTRMZHZYOS1JR0E/view)
 
 ## Key Dates & Times (Austin, TX Local Time)
 
