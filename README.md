@@ -15,6 +15,8 @@ __4)__ Get colleagues to vote from 8AM to 8PM on Friday 11-November.
 ## How to win
 On 11-November all submitted entries will be listed on this site with a corresponding hashtag. Much like the IronViz feeder competitions, the hashtag with the most tweets (by unique users) will determine the underground champion. The winner will get bragging rights to the first \#vizunderground competition.
 
+## Data
+Data are "basic" description of flights in the United States for January 2016 through August 2016. See the data dictionary for a breakdown of the data included in the file. The file has 37M rows and 65 columns.
 
 ## Key Dates & Times (Austin, TX Local Time)
 
